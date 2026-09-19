@@ -37,4 +37,4 @@
 </p>
 
 ## 📫 Let's Connect
-Open to internships and collaborations. Email me at **you@email.com**
+Open to internships and collaborations. Email me at **amanxsingh143@gmail.com**
