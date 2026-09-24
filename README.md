@@ -9,8 +9,8 @@
 
 ## 🧑‍💻 About Me
 - 🎓 B.Tech CSE student at **BBD UNIVERSITY**, graduating 2028
-- 🔭 Currently building **Project Name**, a short one-line description
-- 🌱 Learning: System Design, DSA, Docker
+- 🔭 Currently building **INTELLIGENT ICU PATIENTS MONITORING SYSTEM **, a short one-line description
+- 🌱 Learning: System Design, DSA, 
 - 💬 Ask me about: React, Node.js, Python\Java
 - 🎯 Looking for: SDE internships and full-time roles
 
@@ -26,7 +26,7 @@
 ## 🚀 Featured Projects
 | Project | What it does | Stack |
 |---|---|---|
-| [**Project One**](link) | One-line impact statement (e.g. "Chat app with 500+ test users") | React, Node, MongoDB |
+| [**Project One**](LINK) | One-line impact statement (e.g. "Chat app with 500+ test users") | React, Node, MongoDB |
 | [**Project Two**](link) | What problem it solves | Python, Flask |
 | [**Project Three**](link) | Key feature or result | Java, Spring Boot |
 
