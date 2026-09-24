@@ -11,7 +11,7 @@
 - 🎓 B.Tech CSE student at **BBD UNIVERSITY**, graduating 2028
 - 🔭 Currently building **Project Name**, a short one-line description
 - 🌱 Learning: System Design, DSA, Docker
-- 💬 Ask me about: React, Node.js, Python
+- 💬 Ask me about: React, Node.js, Python\Java
 - 🎯 Looking for: SDE internships and full-time roles
 
 ## 🛠️ Tech Stack
