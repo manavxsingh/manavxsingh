@@ -26,9 +26,9 @@
 ## 🚀 Featured Projects
 | Project | What it does | Stack |
 |---|---|---|
-| [**Project One**](LINK) | One-line impact statement (e.g. "Chat app with 500+ test users") | React, Node, MongoDB |
-| [**Project Two**](link) | What problem it solves | Python, Flask |
-| [**Project Three**](link) | Key feature or result | Java, Spring Boot |
+| [**Project One**](intelligenticupatientmonitoringsystem ) | One-line impact statement (e.g. "Chat app with 500+ test users") | React, Node, MongoDB |
+| [**Project Two**](sudokusolver) | What problem it solves | Python, Flask |
+| [**Project Three**](railwayreservationsystem ) | Key feature or result | Java, Spring Boot |
 
 ## 📊 GitHub Stats
 <p align="center">
