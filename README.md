@@ -10,8 +10,8 @@
 ## 🧑‍💻 About Me
 - 🎓 B.Tech CSE student at **BBD UNIVERSITY**, graduating 2028
 - 🔭 Currently building **INTELLIGENT ICU PATIENTS MONITORING SYSTEM **, a short one-line description
-- 🌱 Learning: System Design, DSA,AWS
-- 💬 Ask me about: React, Node.js, Python|Java|C++
+- 🌱 Learning: System Design, DSA,
+- 💬 Ask me about: React, Node.js, Python|Java|C++|C
 - 🎯 Looking for: SDE internships and full-time roles
 
 ## 🛠️ Tech Stack
