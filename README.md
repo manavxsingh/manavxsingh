@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm AMAN SINGH 👋</h1>
+<h1 align="center">Hi, I'm MANAV SINGH 👋</h1>
 <h3 align="center">CSE Student • Aspiring Full-Stack Developer • Open to Internships</h3>
 
 <p align="center">
