@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm MANAV SINGH 👋</h1>
+<h1 align="center">Hi, I'm AMAN SINGH 👋</h1>
 <h3 align="center">CSE Student • Aspiring Full-Stack Developer • Open to Internships</h3>
 
 <p align="center">
@@ -10,8 +10,8 @@
 ## 🧑‍💻 About Me
 - 🎓 B.Tech CSE student at **BBD UNIVERSITY**, graduating 2028
 - 🔭 Currently building **INTELLIGENT ICU PATIENTS MONITORING SYSTEM **, a short one-line description
-- 🌱 Learning: System Design, DSA,AWS
-- 💬 Ask me about: React, Node.js, Python|Java|C++|C
+- 🌱 Learning: System Design, DSA,
+- 💬 Ask me about: React, Node.js, Python|Java|C++
 - 🎯 Looking for: SDE internships and HALF-time roles
 
 ## 🛠️ Tech Stack
