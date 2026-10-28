@@ -8,7 +8,7 @@
 </p>
 
 ## 🧑‍💻 About Me
-- 🎓 B.Tech CSE student at **BBD UNIVERSITY**, graduating 2028
+- 🎓 B.Tech CSE student at **BBD UNIVERSITY LUCKNOW **, graduating 2028
 - 🔭 Currently building **INTELLIGENT ICU PATIENTS MONITORING SYSTEM **, a short one-line description
 - 🌱 Learning: System Design, DSA,AWS
 - 💬 Ask me about: React, Node.js, Python|Java|C
